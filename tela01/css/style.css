@@ -1,0 +1,212 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+#container {
+  position: relative;
+  margin: auto;
+  width: 400px;
+  height: 800px;
+  background-color: #ede9e9;
+  border-radius: 5px;
+  overflow: hidden;
+}
+header {
+  width: 400px;
+  height: 360px;
+}
+#img_fundo {
+  width: 400px;
+  height: 360px;
+  margin-bottom: -340px;
+}
+#buscar {
+  font-size: 16px;
+  width: 320px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 35px;
+  margin-left: 30px;
+  padding-left: 15px;
+  border: none;
+  outline: none;
+}
+#img_buscar {
+  width: 25px;
+  height: 25px;
+  margin-left: -38px;
+  margin-bottom: -10px;
+  filter: opacity(0.3);
+}
+#p_um {
+  font-size: 36px;
+  font-family: roboto;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 130px;
+  padding-left: 25px;
+  width: 340px;
+}
+#slide_floresta {
+  position: absolute;
+  width: 140px;
+  height: 152px;
+  margin-left: 20px;
+  margin-top: 35px;
+  border-radius: 5px 5px 0 0;
+}
+#praia_slide {
+  position: absolute;
+  width: 140px;
+  height: 152px;
+  margin-left: 185px;
+  margin-top: 35px;
+  border-radius: 5px 5px 0 0;
+}
+#text {
+  position: absolute;
+  width: 140px;
+  height: 40px;
+  background-color: #fff;
+  margin-left: 20px;
+  margin-top: 188px;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+#text2 {
+  position: absolute;
+  width: 140px;
+  height: 40px;
+  background-color: #fff;
+  margin-left: 185px;
+  margin-top: 188px;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+#slide_um {
+  font-size: 17px;
+  font-family: "roboto";
+  margin-left: 19px;
+  margin-top: 11px;
+}
+#folha {
+  position: absolute;
+  margin-left: 110px;
+  margin-top: -38px;
+  filter: opacity(0.3);
+}
+#slide_dois {
+  font-size: 17px;
+  font-family: "roboto";
+  margin-left: 19px;
+  margin-top: 11px;
+}
+#praia {
+  position: absolute;
+  margin-left: 110px;
+  margin-top: -38px;
+  filter: opacity(0.3);
+}
+#montanha_slide {
+  position: absolute;
+  width: 140px;
+  height: 152px;
+  margin-left: 350px;
+  margin-top: 35px;
+  border-radius: 5px 5px 0 0;
+}
+#text3 {
+  position: absolute;
+  width: 140px;
+  height: 40px;
+  background-color: #fff;
+  margin-left: 350px;
+  margin-top: 188px;
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+#mont {
+  font-size: 17px;
+  font-family: "roboto";
+  margin-left: 19px;
+  margin-top: 11px;
+}
+footer {
+  position: absolute;
+  width: 400px;
+  height: 180px;
+  background-color: #222222;
+  margin-top: 260px;
+}
+#saiba {
+  color: #fff;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+  font-family: "roboto";
+}
+#sobre {
+  color: #cccccc;
+  margin-left: 40px;
+  margin-top: 30px;
+  font-size: 12px;
+  font-family: "roboto";
+}
+#vagas {
+  color: #cccccc;
+  margin-left: 40px;
+  margin-top: 40px;
+  font-size: 12px;
+  font-family: "roboto";
+}
+#perg {
+  color: #cccccc;
+  margin-left: 215px;
+  margin-top: -78px;
+  font-size: 12px;
+  font-family: "roboto";
+}
+#meios {
+  color: #cccccc;
+  margin-left: 215px;
+  margin-top: 40px;
+  font-size: 12px;
+  font-family: "roboto";
+}
+#ret1 {
+  position: absolute;
+  margin-top: -79px;
+  margin-left: 30px;
+  background-color: #404040;
+  width: 2px;
+  height: 8px;
+}
+#ret2 {
+  position: absolute;
+  margin-top: -25px;
+  margin-left: 30px;
+  background-color: #404040;
+  width: 2px;
+  height: 8px;
+}
+#ret3 {
+  position: absolute;
+  margin-top: -77px;
+  margin-left: 205px;
+  background-color: #404040;
+  width: 2px;
+  height: 8px;
+}
+#ret4 {
+  position: absolute;
+  margin-top: -23px;
+  margin-left: 205px;
+  background-color: #404040;
+  width: 2px;
+  height: 8px;
+}
+#ret5 {
+  width: 350px;
+  height: 1px;
+  background-color: #2e2e2e;
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
